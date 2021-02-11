@@ -3,6 +3,8 @@
 @import url('components/card.css');
 @import url('components/navbar.css');
 
+@import url('pages/campuses.css');
+
 body {
   font-family: "Open Sans", "Helvetica", "sans-serif";
   margin: 0;
@@ -15,3 +17,13 @@ h1, h2, h3 {
 .text-center {
   text-align: center;
   }
+
+.navbar-lewagon {
+  align-items: center;
+}
+
+.navbar-lewagon img {
+  width: : 100px;
+  height: 100px;
+  align-items: center;
+}
